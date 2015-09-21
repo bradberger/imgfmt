@@ -1,10 +1,10 @@
 package main
 
 import (
-	"./optimizer"
 	"bufio"
 	"flag"
 	"fmt"
+	"github.com/bradberger/optimizer"
 	_ "golang.org/x/image/bmp"
 	_ "golang.org/x/image/font"
 	_ "golang.org/x/image/riff"
